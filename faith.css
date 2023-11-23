@@ -6,3 +6,10 @@
 body{
     box-sizing: border-box;
 }
+h1{
+    color: magenta;
+    font-weight: bolder;
+    font-family: cursive;
+    text-decoration: underline;
+    text-shadow: 3px 3px 12px 2px black;
+}
