@@ -1,2 +1,2 @@
 # faithman
-a project for Faithfulness and Emmanuel
+a project for Faithfulness
