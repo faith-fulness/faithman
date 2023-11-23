@@ -14,3 +14,8 @@ h1{
     text-align: center;
     text-shadow: 3px 3px 12px 2px black;
 }
+p{
+    text-align: center;
+    padding: 3%;
+    background-color: wheat;
+}
